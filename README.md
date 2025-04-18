@@ -5,7 +5,7 @@
 
 **Other replication projects**:
 * Life-cycle model (in Matlab, C++): Guo, N., & Leung, C. K. Y. (2021). Do elite colleges matter? The impact on entrepreneurship decisions and career dynamics. Quantitative Economics, 12(4), 1347-1397.
-* Search-and-matching with occupational choice (in Matlab): Yuen, C. Y. (2021). Unemployment risk and entrepreneurship. Unemployment Risk and Entrepreneurship. Working paper.
+* Search-and-matching with occupational choice (in Matlab): Yuen, C. Y. (2021). Unemployment risk and entrepreneurship. Working paper.
 * Stacked event-by-event estimation (in Stata): Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. The Quarterly Journal of Economics, 134(3), 1405-1454.
 
 **Replication projects working in progress**:
